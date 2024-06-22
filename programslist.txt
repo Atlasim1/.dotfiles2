@@ -1,0 +1,30 @@
+LIST OF PACKAGES TO INSTALL
+
+*tmux
+*lf
+*nvim
+*kitty
+*i3wm
+*	nitrogen
+*	rofi
+*	rofi-advanced
+*zsh
+*lynx
+*oh-my-zsh
+*firefox
+cheat
+pkm
+*zoxide
+
+
+DEVELOPMENT
+mise-en-place
+TODO : python -m ensurepip --upgrade
+
+OTHER UTILITIES
+fim
+feh
+cmus
+mpv
+
+
